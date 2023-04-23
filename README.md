@@ -15,3 +15,9 @@ Then you need to download language for spacy_udpipe:
 The sample **doc2vec model** is loading automaticaly (see the config. class). 
 
 To force model training is necessary to set **FORCE_TRAINING** in config class to **True**. Note that training could take some time (see the bulgarian constants when creating . 
+
+## Running
+
+> python3 demo.py
+
+Enjoy chatting!
