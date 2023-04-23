@@ -16,7 +16,7 @@ Data of intents are from some kaggle.com dataset.
 
 The sample **doc2vec model** is loading automaticaly (see the config. class). 
 
-To force model training is necessary to set **FORCE_TRAINING** in config class to **True**. Note that training could take some time (see the bulgarian constants when creating . 
+To force model training is necessary to set **FORCE_TRAINING** in config class to **True**. Note that training could take some time (see the "Bulgarian constants" when creating doc2vec model). 
 
 ## Running
 
