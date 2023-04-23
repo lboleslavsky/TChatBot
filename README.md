@@ -12,6 +12,8 @@ Then you need to download language for spacy_udpipe:
 2. intents for answers
 3. structure context (intent is dependent on another intent)
 
+Data of intents are from some kaggle.com dataset. 
+
 The sample **doc2vec model** is loading automaticaly (see the config. class). 
 
 To force model training is necessary to set **FORCE_TRAINING** in config class to **True**. Note that training could take some time (see the bulgarian constants when creating . 

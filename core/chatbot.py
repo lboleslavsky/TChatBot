@@ -13,7 +13,7 @@ import spacy_udpipe
 import gensim
 import multiprocessing
 import os
-from parser import IntentParser
+from core.parser import IntentParser
 from gensim.models.doc2vec import Doc2Vec, TaggedDocument
 from gensim.utils import simple_preprocess
 

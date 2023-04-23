@@ -7,7 +7,7 @@
 # @author lboleslavsky, 2023
 #
 
-from chatbot import TChatBot
+from core.chatbot import TChatBot
 from conf import TChatBotConfig
 import os
 
