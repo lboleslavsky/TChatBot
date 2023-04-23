@@ -96,7 +96,7 @@ class TChatBot():
         if not os.path.exists('models'):
             os.makedirs('models')
         
-        self.model.save(self.language+"_"+fileName)
+        self.model.save("models/"+self.language+"_"+fileName)
 
     #
     # MEthod to set action handlers
