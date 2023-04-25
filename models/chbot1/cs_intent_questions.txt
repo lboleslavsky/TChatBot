@@ -1,0 +1,21 @@
+Greeting	 Ahoj	Ahoj	hola 	 Ahoj	ahoj	hya
+GreetingResponse	 Můj uživatel je Adam	Toto je Adam	Jsem Adam	Je to Adam	můj uživatel je bella 	 Toto je bella	Jsem Bella 	 to je Bella
+CourtesyGreeting	 Jak se máš?	Ahoj jak se máš?	Ahoj, jak se máš? 	 Hola, jak se máš?daří?
+CourtesyGreetingResponse	 Dobré díky!Můj uživatel je Adam 	 Dobré díky!To je Adam 	 Dobré díky!Jsem Adam	Dobrá díky!Je to Adam	Skvělé díky!Můj uživatel je Bella 	 Skvělé díky!To je Bella 	 Skvělé díky!Jsem Bella 	 Skvělé díky!Je to Bella
+CurrentHumanQuery	 Jak se jmenuješ?	Jak mi říkáš?	Kdo si myslíš, že jsem?já by? 	 Řekni mi moje jméno
+NameQuery	 Jak se jmenuješ?
+RealNameQuery	 Jaké je vaše skutečné jméno?	Jaké je vaše skutečné jméno?	Jaké je vaše skutečné jméno?Skutečné jméno prosím?
+TimeQuery	 Jaký je čas??	Čas
+Thanks	 Dobře, děkuji	OK, díky	OK	děkuji	děkuji	to je užitečné
+NotTalking2U	 Nemluvím s tebou	Nemluvil jsem s tebouMluvím s tebou
+UnderstandQuery	 Rozumíte tomu, co říkám	Rozumíš mi	Víte, co říkám
+Shutup	 Buďte ticho 	 Drž hubu 	 Přestaňte mluvit	dost mluvení	prosím, buďte ticho	ticho 	 shhh
+Swearing	 Fuck off 	 Fuck 	 twat 	 sračky
+GoodBye	 Bye 	 ADIOS 	 Uvidíme se později	sbohem
+CourtesyGoodBye	 Díky, sbohem	děkuji za pomoc, sbohem	děkuji, sbohem	děkuji, sbohem
+WhoAmI	 Vidíš mě?	Vidíš mě?	Vidíš někoho ve fotoaparátu?
+Clever	 Jste velmi chytří	Jste velmi chytrá dívka	Jste velmi inteligentní	Jste velmi inteligentní dívka	Jste geniální
+Gossip	 Nudím se s sebou
+Jokes	 Řekni mi vtip	Víte, že nějaké vtipy	co takhle vtip	Dej mi vtip
+PodBayDoor	 Otevřete dveře pod zálivu	Můžete otevřít dveře pod zálivu	Otevřete dveře zálivu pod zálivem 	 Otevřete dveře zálivu pod, prosímdveře zálivu zálivuPodBayDoorResponse	 Proč	Proč ne	Proč nemůžete otevřít dveře pod zálivu	Proč neotevřete dveře pod zálivu	Proč ne	Určitě můžete	Řekněte mi proč
+SelfAware	 Dokážete dokázat, že jste si vědomi	Dokážete, že jste si vědomi	Můžete dokázat, že máte vědomé	Můžete dokázat, že jste si vědomi, prosím,	můžete dokázat, že jste sebevědomíProsím	Můžete prokázat, že máte vědomé
