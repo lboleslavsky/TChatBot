@@ -166,6 +166,12 @@ class TChatBot():
         return True
 
     #
+    # Method for parsing entities from text
+    #
+    def parseEntities(self, message):
+        pass
+
+    #
     # Method to connect a callback to message response
     #
     def getCallbackResponse(self, message, callback):

@@ -8,6 +8,7 @@
 #
 
 from core.chatbot import TChatBot
+from core.actions import ActionHandler
 from conf import TChatBotConfig
 import os
 
@@ -16,6 +17,7 @@ config = TChatBotConfig()
 
 tchBot.load(config.INTENT_QUESTION_FILE, config.INTENT_ANSWERS_FILE, config.INTENT_CONTEXT_STRUCTURE_FILE, config.MODEL_FILE, config.DEFAULT_PHRASE, config.LANGUAGE, config.FORCE_TRAIN)
 tchBot.contexts.append(config.INTENT_START_DIALOG)
+tchBot.setActionHandlers([ActionHandler()])
 
 sentence=""
 while(tchBot.contexts[-1]!="CourtesyGoodBye" and tchBot.contexts[-1]!="GoodBye"):
